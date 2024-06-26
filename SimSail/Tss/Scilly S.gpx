@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+    <rte>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>54c9ffff-d063-4bfd-836f-c2cd2d8d0000</opencpn:guid>
+        </extensions>
+        <rtept lat="49.592469702" lon="-6.568630301">
+            <time>2014-12-31T17:42:46Z</time>
+            <sym>square</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>410dffff-1b80-4d5b-b420-2be845aeffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+            </extensions>
+        </rtept>
+        <rtept lat="49.592175903" lon="-6.274569590">
+            <time>2014-12-31T17:42:46Z</time>
+            <sym>square</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>73e9ffff-d1c5-465c-80fe-21da7459ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+            </extensions>
+        </rtept>
+        <rtept lat="49.609624477" lon="-6.274660237">
+            <time>2014-12-31T17:42:46Z</time>
+            <sym>square</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>4ef3ffff-226c-4463-bc36-b35d168c0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+            </extensions>
+        </rtept>
+        <rtept lat="49.609741955" lon="-6.561378496">
+            <time>2014-12-31T17:42:46Z</time>
+            <sym>square</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>4b08ffff-5988-4166-aac3-51c0054b0000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>18b90000-91d3-464b-abc9-01460b4c0000</opencpn:guid>
+        </extensions>
+        <rtept lat="49.659350936" lon="-6.539623079">
+            <time>2014-12-31T17:42:46Z</time>
+            <sym>square</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>20810000-8a83-48e4-a54f-7cea27c00000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+            </extensions>
+        </rtept>
+        <rtept lat="49.659116219" lon="-6.274841532">
+            <time>2014-12-31T17:42:46Z</time>
+            <sym>square</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>375c0000-d8f7-4be2-8127-82cb4aaaffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+            </extensions>
+        </rtept>
+        <rtept lat="49.691965497" lon="-6.274932180">
+            <time>2014-12-31T17:42:46Z</time>
+            <sym>square</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>0caa0000-5ce4-4c7d-9389-160e558fffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+            </extensions>
+        </rtept>
+        <rtept lat="49.692317334" lon="-6.524122345">
+            <time>2014-12-31T17:42:46Z</time>
+            <sym>square</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>7e3dffff-0c8a-4e53-b81f-e82136b60000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+            </extensions>
+        </rtept>
+    </rte>
+    <rte>
+        <extensions>
+            <opencpn:start></opencpn:start>
+            <opencpn:end></opencpn:end>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:guid>1ff60000-d753-46c2-ac84-f7617894ffff</opencpn:guid>
+        </extensions>
+        <rtept lat="49.742603721" lon="-6.502276281">
+            <time>2014-12-31T17:42:46Z</time>
+            <sym>square</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>31440000-8b37-4cb3-9667-d26922f00000</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+            </extensions>
+        </rtept>
+        <rtept lat="49.742603721" lon="-6.274569590">
+            <time>2014-12-31T17:42:46Z</time>
+            <sym>square</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>18d80000-fd93-464e-970e-a4b166e3ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+            </extensions>
+        </rtept>
+        <rtept lat="49.767434647" lon="-6.274932180">
+            <time>2014-12-31T17:42:46Z</time>
+            <sym>square</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>1fb10000-7f58-4f12-8724-c449420affff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+            </extensions>
+        </rtept>
+        <rtept lat="49.767668840" lon="-6.491035983">
+            <time>2014-12-31T17:42:46Z</time>
+            <sym>square</sym>
+            <type>WPT</type>
+            <extensions>
+                <opencpn:guid>4da6ffff-34b4-42b5-a351-01267845ffff</opencpn:guid>
+                <opencpn:viz>1</opencpn:viz>
+                <opencpn:viz_name>1</opencpn:viz_name>
+            </extensions>
+        </rtept>
+    </rte>
+</gpx>

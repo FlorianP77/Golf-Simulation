@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+    <wpt lat="54.133686" lon="11.691975">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Buk</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="53.908203" lon="14.286898">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Swinoujscie</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.318565" lon="15.192594">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Christianso </name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.134903" lon="15.153276">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Svaneke</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.986935" lon="15.072770">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Dueodde</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.299385" lon="13.324100">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Kullagrund</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.367180" lon="13.138038">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Trelleborg</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.384296" lon="12.817658">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Falsterbo</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.309242" lon="12.657582">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Falsterborev</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.289791" lon="12.453508">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Stevns</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.009220" lon="12.520908">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Hellehavn</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.946362" lon="12.540567">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Moen</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.095276" lon="15.065749">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Niechorze</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.829792" lon="12.159567">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Hestehoved</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.564072" lon="11.963793">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Gedser</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="53.958118" lon="11.330858">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>WieschendorfN</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="53.962250" lon="10.881755">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Travemuende</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.085705" lon="10.867011">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Pelzerhaken</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.201679" lon="11.089574">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Dahmeshoeved</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.402760" lon="11.310966">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Staberhuk</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.494270" lon="11.238651">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Puttgarden</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.653355" lon="11.733632">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Nysted</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.181923" lon="15.565638">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Kolobrzeg</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.239952" lon="15.878302">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Gaski</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.436424" lon="16.395039">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Darlowo</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.534073" lon="16.548086">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Jaroslawiec</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.584248" lon="16.864971">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Ustka</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.716400" lon="17.245035">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Czolpino</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.784241" lon="17.740704">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Stilo</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.826557" lon="18.336552">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Rozewie</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.176445" lon="12.077656">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Warnemunde</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.697739" lon="18.683851">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Jastarnia</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.602455" lon="18.815369">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Hel</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.398296" lon="18.696489">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Gdansk</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.383034" lon="19.458490">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Krynica Morska</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.514206" lon="19.745878">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Scukinskij</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.636833" lon="19.898466">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Baltijsk</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.830639" lon="19.951817">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Obzornyj</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.959839" lon="19.980837">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Mys Taran</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.959839" lon="20.269161">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Gwardejskij</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.016773" lon="20.614590">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Lesnoj</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.338306" lon="12.375342">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Wustrow</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.170513" lon="20.845812">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Rybacij</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.306084" lon="20.994654">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Nidden</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.558372" lon="21.119158">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Juodkrante</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.729534" lon="21.096691">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Klaipeda</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.026230" lon="21.081713">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Sventoji</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.155224" lon="21.024611">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Papesciems</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.382385" lon="20.982485">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Bernat</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.516899" lon="20.992783">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Liepaja</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.831905" lon="21.057140">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Akmenrags</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.209614" lon="21.415674">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Uzava</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.471252" lon="12.500782">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Darsser Ort</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.395458" lon="21.542519">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Ventspils</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.569572" lon="21.716167">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Ovisi</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.600433" lon="21.974537">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Mikelornis</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.658070" lon="22.216524">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Sikrags</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.802761" lon="22.634501">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Kolka</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.366947" lon="23.120815">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Mersrags</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.055683" lon="24.028851">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Riga</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.864647" lon="24.370310">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Ainazi</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.910091" lon="22.056448">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Sorve</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.751099" lon="21.724125">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Irbe</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.503880" lon="13.079304">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Gellen</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="58.381737" lon="21.810959">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Vilsandi</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="58.916168" lon="22.200142">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Kopu</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="58.941051" lon="22.055044">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Ristna</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.093090" lon="22.588163">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Tahkuna</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.300983" lon="23.363045">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Osmussaar</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.381180" lon="24.040794">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Paldiski</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.456429" lon="24.379671">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Sutrupi</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.600739" lon="24.514471">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Naissaar</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.705887" lon="24.735622">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Tallinn</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.697235" lon="25.018105">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Keri</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.601604" lon="13.118621">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Dornbusch</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.943977" lon="24.919102">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Helsinki</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.865906" lon="24.314142">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Porkkala</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.786858" lon="23.548397">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Jussaroe</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.783089" lon="23.243221">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Laengden</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.769104" lon="22.949505">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Russaroe</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.723354" lon="22.498297">
+        <time>2010-11-17T22:11:16Z</time>
+        <name>Bengtskaer</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.778999" lon="21.372145">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Utoe</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.834671" lon="19.904308">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Laagskaer</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.802670" lon="19.784485">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Floetjan</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.679615" lon="13.433157">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Arkona</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.441948" lon="19.499905">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Svenska Hoegarna</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.247414" lon="19.010090">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Revengegrundet</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="59.151546" lon="19.124296">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Almagrundet</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="58.959969" lon="18.568241">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Huvidskaer</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="58.734295" lon="17.856791">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Landsort</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="58.391552" lon="19.193569">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Gotska Sandon</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="58.593113" lon="17.458002">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Gustaf Dalen</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.956154" lon="19.337730">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Faaroe</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.919167" lon="18.741648">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Hallshuk</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.819592" lon="18.457067">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Stenkyrkehuk</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.554943" lon="13.672804">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Sassnitz</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.634865" lon="18.266809">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Visby</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.290482" lon="17.952274">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Stora Karlsoe</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.918324" lon="18.143242">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Hoburg</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.216549" lon="18.673086">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Naer</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.442715" lon="18.983168">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Ostergarn</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="58.143406" lon="16.978710">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Haeradskaer</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.838745" lon="16.836420">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Storklaeppen</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.364262" lon="17.087299">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Olands Norra</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="57.144505" lon="17.040493">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Hoegby</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.820087" lon="16.832676">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Kapelludden</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="54.249798" lon="13.925556">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Greifswalder Oie</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.365501" lon="16.559328">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Sederstad</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.191925" lon="16.402060">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Olands Sodra</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.371723" lon="16.261642">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Ugrunden</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.014420" lon="15.791710">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Utlaengan</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.950527" lon="15.707459">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Utklippan</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.106407" lon="14.967925">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Tarno</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="56.009186" lon="14.846230">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Hanoe</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.555424" lon="14.350086">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Simrishamn</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.381371" lon="14.190946">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Sandhammaren</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="55.294056" lon="14.773212">
+        <time>2010-11-17T22:11:17Z</time>
+        <name>Hammerodde</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+</gpx>

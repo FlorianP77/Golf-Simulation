@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:simsail="http://www.simsail.net">
+	<rte>
+		<name>Parc éolien Dieppe</name>
+		<rtept lat="50.1268" lon="1.00611">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.2149" lon="1.16048">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.1649" lon="1.2359">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.0824" lon="1.07354">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.1262" lon="1.00699">
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>

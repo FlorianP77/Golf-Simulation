@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:simsail="http://www.simsail.net">
+	<rte>
+		<rtept lat="49.7952" lon="-2.36162">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.6098" lon="-4.77015">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.4544" lon="-4.86113">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.2922" lon="-4.81803">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.0335" lon="-4.77015">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="47.7702" lon="-4.39184">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="47.4442" lon="-3.08934">
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>

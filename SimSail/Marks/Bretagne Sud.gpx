@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+    <wpt lat="47.321666647" lon="-2.834999962">
+        <time>2012-02-09T13:25:38Z</time>
+        <name>Cardinaux</name>
+        <desc>Phare des grands Cardinaux</desc>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>62791262-f54c-4bb5-80df-261360206d59</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.414999977" lon="-2.936666664">
+        <time>2012-02-09T13:23:36Z</time>
+        <name>E Conchyli</name>
+        <desc>Zone Conchylicole Nord de Houat</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>52c87448-cc94-41ef-b1c3-4dfd27774b5c</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.549130185" lon="-2.920670729">
+        <time>2012-02-07T16:49:01Z</time>
+        <name>E Golfe Ent</name>
+        <desc>Atlantic Ocean</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>08f49942-e4f3-4ead-8686-90561b1bebdc</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.344353712" lon="-2.874590855">
+        <time>2012-02-09T13:24:48Z</time>
+        <name>Hoedic jetee</name>
+        <desc>Ile Hoedic jetee nord</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4619c66a-8c63-47c4-90ba-238220f58606</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.393333344" lon="-2.954999981">
+        <time>2012-02-09T13:21:01Z</time>
+        <name>Houat jetee</name>
+        <desc>Atlantic Ocean</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>573204d0-29b5-4ab8-b020-4e9a432b59b6</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.345000021" lon="-2.515000021">
+        <time>2012-02-15T08:21:24Z</time>
+        <name>La Turballe</name>
+        <desc>Atlantic Ocean</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>530f1fd3-0be5-4930-a10a-228646132742</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.547349976" lon="-2.845966676">
+        <time>2012-02-09T14:36:06Z</time>
+        <name>Logeo Cale</name>
+        <desc>Cale mise a eau Logeo</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>1376c3a6-b44d-44ea-aa77-ba9f198b3b52</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.418333292" lon="-2.943333294">
+        <time>2012-02-09T13:42:10Z</time>
+        <name>N Conchyli</name>
+        <desc>Zone conchylicole nord de houat</desc>
+        <sym>Diver Down Flag 2</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>03e39198-a2d7-4b96-9060-cd9b5e2f2be8</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.443333324" lon="-3.031666651">
+        <time>2012-02-09T13:12:24Z</time>
+        <name>NE Teignouse</name>
+        <desc>Teignouse Est</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6aebfe4c-5709-446c-9514-b0a778239798</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.548224496" lon="-3.028032743">
+        <time>2012-02-09T13:13:21Z</time>
+        <name>Petit Treho</name>
+        <desc>Entree La Trinite sur Mer</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>68b5fb6c-071c-4258-a2b7-1d962dc2a9a9</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.426666664" lon="-2.840000018">
+        <time>2012-02-15T08:19:47Z</time>
+        <name>Recherche</name>
+        <desc>Atlantic Ocean</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4710adb6-2ffa-4cc3-aab3-09135ecf0136</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.550324025" lon="-2.926343029">
+        <time>2012-02-07T16:48:58Z</time>
+        <name>W Golfe Ent</name>
+        <desc>Atlantic Ocean</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>28fdde22-6605-4243-b2e9-da1b2b44391e</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.486666674" lon="-3.290000008">
+        <time>2012-02-09T13:33:39Z</time>
+        <name>Birvideaux</name>
+        <desc>Phare plateau des Birvideaux</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>0c01f6c3-a9de-40af-9c76-1c3b2cdde8f0</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.636166634" lon="-3.214166667">
+        <time>2012-02-09T14:08:42Z</time>
+        <name>SW Etel</name>
+        <desc>Atlantic Ocean</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6e82ef23-ac44-4424-9767-906978fa0b75</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.428333322" lon="-3.081666632">
+        <time>2012-02-09T13:10:33Z</time>
+        <name>S Goue Vas</name>
+        <desc>Teignouse Ouest</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6806ae05-1d16-40d4-bfed-70b9485418de</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.356573334" lon="-3.144488996">
+        <time>2012-02-07T16:48:42Z</time>
+        <name>Le Palais</name>
+        <desc>Atlantic Ocean</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>092cfd92-d176-4c1d-98fa-4fe36682c351</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.596666664" lon="-3.391666627">
+        <time>2012-02-09T13:35:06Z</time>
+        <name>Les Chats</name>
+        <desc>Ile de groix</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>12e57112-2ac5-4a4b-9dd2-25b54818ddd8</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.464166628" lon="-3.133333353">
+        <time>2012-02-09T13:36:43Z</time>
+        <name>LesPouilloux</name>
+        <desc>Atlantic Ocean</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>588cf688-1d1b-4d75-8848-fe6e0eaad8ec</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.376976444" lon="-3.214143517">
+        <time>2012-02-09T13:15:27Z</time>
+        <name>Sauzon</name>
+        <desc>extremite jetee Nord-Ouest Sauzon</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>72877578-3663-48b3-8fa1-b5e069c69454</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.768666670" lon="-3.668166669">
+        <time>2012-02-09T14:01:03Z</time>
+        <name>Brigneau</name>
+        <desc>Bouee aterrissage</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6c348eb2-dd09-4b59-b7b6-35374e773477</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.856666679" lon="-3.929000013">
+        <time>2012-02-09T14:10:32Z</time>
+        <name>Lue-Vras</name>
+        <desc>Approche concarneau Balise Lue-Vras</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>7415da85-8d7b-4ebc-8547-779a2db7d3ee</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.770333327" lon="-3.609666685">
+        <time>2012-02-09T14:03:00Z</time>
+        <name>Doelan</name>
+        <desc>Sur alignement au 14° dans entree de Doelan</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>7fbac5b3-7e13-49c8-ac02-975944756ef1</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.720999960" lon="-3.986500036">
+        <time>2012-02-09T14:33:12Z</time>
+        <name>La Baleine</name>
+        <desc>Glenan</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>79c6f4f9-e9fa-419c-82bd-39c44092525e</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.729166700" lon="-3.993166666">
+        <time>2012-02-09T14:29:21Z</time>
+        <name>La Pie</name>
+        <desc>Bouee Fandger isole</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>465dfc16-88a2-4c26-a90b-d9a57e0adbc9</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.720999960" lon="-3.968166634">
+        <time>2012-02-09T14:15:26Z</time>
+        <name>Glenan Mort</name>
+        <desc>dans l &apos;entree chenal Pen A Men cailloux Tete de mort</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>7ae3eb6a-12ea-4f05-a782-23f66bf379d1</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.730000028" lon="-3.951333342">
+        <time>2012-02-09T14:32:01Z</time>
+        <name>Glenan NE</name>
+        <desc>Sur alignement au 218 fond de 20m</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>3dc3015c-9b1c-4bd5-8d60-2d06752f5edf</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.780499989" lon="-3.650333332">
+        <time>2012-02-09T13:57:23Z</time>
+        <name>Merrien</name>
+        <desc>entree riviere Merrien</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>78fe0039-d781-4723-b88c-6d6b467b9c11</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.799999984" lon="-3.737666644">
+        <time>2012-02-09T13:59:36Z</time>
+        <name>Port Manech</name>
+        <desc>Phare pointe de Beg ar Vechen</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>5d4385e3-f816-4386-90e8-06a8048885fd</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.762500020" lon="-3.537666639">
+        <time>2012-02-09T14:05:40Z</time>
+        <name>Pouldu MenDu</name>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>1f14a75e-09f0-4a0e-a981-3b5c19aafc24</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.469757517" lon="-2.791951089">
+        <time>2012-02-28T20:05:29Z</time>
+        <name>Bouee St Jac</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6a6f257a-4e0b-47e3-8175-22f738f0096c</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.501488221" lon="-2.716528895">
+        <time>2012-02-28T20:14:01Z</time>
+        <name>Piquet Landrezac</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>32295e85-73f9-4446-8e70-238338e8d642</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.502930367" lon="-2.725220324">
+        <time>2012-02-28T20:14:52Z</time>
+        <name>Ancre Succinio</name>
+        <sym>anchor</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>3e4aa43e-2cca-4300-9501-0cbb6944c654</opencpn:guid>
+            <opencpn:viz>0</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.528130632" lon="-2.975563962">
+        <time>2012-02-28T22:29:46Z</time>
+        <name>Buissons</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>1a6e9f54-a93c-4bdd-a780-ba754bdb9ed6</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.534390202" lon="-3.020698397">
+        <time>2012-02-28T22:30:02Z</time>
+        <name>Souris</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>73cd647b-6300-4806-a9f1-151f644b3a69</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.261118349" lon="-2.713113316">
+        <time>2012-02-28T22:41:58Z</time>
+        <name>Capella</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>5ba6936b-2a31-4b1b-856b-6cf24c467d14</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.387650230" lon="-2.946790759">
+        <time>2012-02-28T22:17:09Z</time>
+        <name>Ancre Houat</name>
+        <sym>anchor</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>340a08a4-fd7a-46af-9dbb-d8c5626f636d</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.366885572" lon="-2.939700383">
+        <time>2012-02-28T22:19:08Z</time>
+        <name>S Houat</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>46b8cceb-1d2b-41f8-9c7e-265d4be546bd</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.366720331" lon="-2.949703150">
+        <time>2012-02-28T22:19:34Z</time>
+        <name>S Houat</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>39878adf-e35c-4816-8b35-14de0ff91f48</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.378430533" lon="-2.963578939">
+        <time>2012-02-28T22:20:12Z</time>
+        <name>W Houat</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>0115208a-2416-4386-80e1-13f631af9dc5</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.382209462" lon="-2.959522939">
+        <time>2012-02-28T22:20:30Z</time>
+        <name>Ancre Houat</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>009f09ff-9292-4275-8ecb-4e180adfc7ec</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.536666654" lon="-2.911666632">
+        <time>2012-02-09T13:18:29Z</time>
+        <name>Crouesty</name>
+        <desc>Bouee Numero 1 Crouesty</desc>
+        <sym>Flag, Blue</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>70eb6102-da5c-41da-9610-67385b4be199</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.514709348" lon="-2.933213914">
+        <time>2012-02-28T22:25:16Z</time>
+        <name>Meaban</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>0d81f2eb-9ce6-452f-a5a5-65a11ed90be9</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.387350847" lon="-2.934211060">
+        <time>2012-02-28T22:16:42Z</time>
+        <name>Ilot Houat</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>3a0cc50c-38b9-44aa-a186-432234c4104c</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.104480841" lon="-2.113656457">
+        <time>2012-02-29T12:55:54Z</time>
+        <name>Pornic</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>05cb9f02-f668-464c-8ec3-f5125fccc7ca</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.145247245" lon="-2.342195184">
+        <time>2012-02-29T12:57:12Z</time>
+        <name>Lancastria</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>123cedab-bc2e-4119-b052-88906bfd999b</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.163302030" lon="-2.478796538">
+        <time>2012-02-29T12:59:15Z</time>
+        <name>Banche</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>56700826-aa4e-4a92-bf60-2878764eb73d</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.192782912" lon="-2.540814364">
+        <time>2012-02-29T12:59:36Z</time>
+        <name>W Banche</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>29e08420-a604-451b-9445-45cb09d5d401</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.348353269" lon="-2.841935227">
+        <time>2012-02-29T13:00:36Z</time>
+        <name>Gurannich</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>731a044a-6220-4c9a-a9ac-0feb7af1137b</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.351425685" lon="-2.875654887">
+        <time>2012-02-29T13:08:48Z</time>
+        <name>La Chevre</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>545aa924-182e-4764-a66d-0bf230340056</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.483010837" lon="-2.851942189">
+        <time>2012-02-29T13:14:31Z</time>
+        <name>Grand Mont</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>5fed0ab5-86b4-46ac-87a7-81f10994579a</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.486477724" lon="-2.790038366">
+        <time>2012-02-29T13:15:37Z</time>
+        <name>Port St Jac</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>7ab60cb7-8bfa-4c6f-9222-08456c3d04cd</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+            <opencpn:shared>1</opencpn:shared>
+        </extensions>
+    </wpt>
+    <wpt lat="47.352541322" lon="-2.912287965">
+        <time>2012-02-29T17:25:42Z</time>
+        <name>Les Soeurs</name>
+        <sym>bouy1</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6db509bb-1125-4a72-9250-4ea642272d00</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.375672608" lon="-2.939750106">
+        <time>2012-02-29T17:26:55Z</time>
+        <name>Houteliguet</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>54946574-b521-433b-9973-68ad3197e31f</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.379652638" lon="-2.916594758">
+        <time>2012-02-29T17:27:26Z</time>
+        <name>Men Groise</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6ac021a7-d7c3-4df4-a624-af4f44131a13</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.368123452" lon="-2.920344202">
+        <time>2012-02-29T17:28:00Z</time>
+        <name>Sperneg Vras</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>421539f5-ff20-42e4-8f57-9d02062cf2d0</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.367385636" lon="-2.905346427">
+        <time>2012-02-29T17:29:16Z</time>
+        <name>Rouzes Rade</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>70f938d9-f406-4d30-9c03-183a42f69f86</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.408344557" lon="-2.948110353">
+        <time>2012-02-29T17:32:16Z</time>
+        <name>W Conchy</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>457dff37-a5fd-42c7-a922-7455404c5c42</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.406629998" lon="-2.943752891">
+        <time>2012-02-29T17:32:33Z</time>
+        <name>S Conchi</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>553d53ae-5a82-4663-8fa7-9bbe7df06196</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.496260815" lon="-2.881329720">
+        <time>2012-02-29T17:34:59Z</time>
+        <name>St Gildas</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>5866ef43-9bcc-432a-881f-08d8571e1562</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.480374138" lon="-2.897138186">
+        <time>2012-02-29T17:35:20Z</time>
+        <name>Chimere</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>780e4342-e0c3-44ee-91a1-2a38724726ec</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.430765853" lon="-2.789924363">
+        <time>2012-02-29T17:35:38Z</time>
+        <name>Locmariaqer</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>1d4ccc38-39e7-4c77-8312-9a9f39a19a1a</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.481880840" lon="-2.667104748">
+        <time>2012-02-29T17:36:17Z</time>
+        <name>Penvins</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>208c3e85-aeb9-434e-b49d-496a650c85c8</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.485168038" lon="-2.581171552">
+        <time>2012-02-29T17:36:32Z</time>
+        <name>Les Mats</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>156a7b57-038f-4d75-9bea-829b54f2e28a</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.418836444" lon="-2.584819659">
+        <time>2012-02-29T17:36:48Z</time>
+        <name>Basse Dumet</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>15f73f3f-36b2-4749-8772-910e194e5230</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.422041881" lon="-2.467624210">
+        <time>2012-02-29T17:37:38Z</time>
+        <name>Mesquer</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4f781cb4-ad49-40ab-a33b-e8fe67ed1724</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.309426251" lon="-2.523283181">
+        <time>2012-02-29T17:38:50Z</time>
+        <name>Le Croisic</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>3f62f520-f395-4191-826c-f4be16adcb9a</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.302554809" lon="-2.569619212">
+        <time>2012-02-29T17:39:40Z</time>
+        <name>Basse Castouillet</name>
+        <sym>triangle</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6c11f716-1eea-44ab-805a-b37620a65794</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+</gpx>

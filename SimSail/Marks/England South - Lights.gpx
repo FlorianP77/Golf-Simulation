@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+    <wpt lat="52.488899" lon="1.755608">
+        <time>2010-11-21T19:42:16Z</time>
+        <name>Gt Yarmouth</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="52.326157" lon="1.682733">
+        <time>2010-11-21T19:42:51Z</time>
+        <name>Southwold</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="52.092510" lon="1.579927">
+        <time>2010-11-21T19:43:08Z</time>
+        <name>Orford Ness</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="51.382557" lon="1.445890">
+        <time>2010-11-21T19:43:46Z</time>
+        <name>N Foreland</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.913982" lon="0.969601">
+        <time>2010-11-21T19:44:13Z</time>
+        <name>Dungeness</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.733952" lon="0.242155">
+        <time>2010-11-21T19:44:56Z</time>
+        <name>Beachy Head</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.723965" lon="0.434915">
+        <time>2010-11-21T19:45:38Z</time>
+        <name>Royal Sovereign</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.668324" lon="-0.946777">
+        <time>2010-11-21T19:46:28Z</time>
+        <name>Nab Twr</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.662346" lon="-1.591263">
+        <time>2010-11-21T19:46:46Z</time>
+        <name>Needles</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.576271" lon="-1.297812">
+        <time>2010-11-21T19:47:50Z</time>
+        <name>St Catherines Pt</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.593620" lon="-1.959215">
+        <time>2010-11-21T19:48:33Z</time>
+        <name>Anvil Pt</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.514248" lon="-2.455024">
+        <time>2010-11-21T19:49:10Z</time>
+        <name>Shambles</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.586185" lon="-2.415984">
+        <time>2010-11-21T19:49:37Z</time>
+        <name>Portland</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.400745" lon="-3.484380">
+        <time>2010-11-21T19:50:05Z</time>
+        <name>Berry Head</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.223316" lon="-3.639889">
+        <time>2010-11-21T19:50:46Z</time>
+        <name>Start Pt</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.182919" lon="-4.266482">
+        <time>2010-11-21T19:51:23Z</time>
+        <name>Eddystone</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="49.960747" lon="-5.200190">
+        <time>2010-11-21T19:51:44Z</time>
+        <name>Lizard</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="49.941490" lon="-5.815721">
+        <time>2010-11-21T19:52:02Z</time>
+        <name>Wolf Rock</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.066532" lon="-5.747076">
+        <time>2010-11-21T19:53:02Z</time>
+        <name>Longships</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.165001" lon="-5.672249">
+        <time>2010-11-21T19:53:21Z</time>
+        <name>Pendeen</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.051914" lon="-5.577251">
+        <time>2010-11-21T19:54:01Z</time>
+        <name>Tater-du</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="50.117355" lon="-5.527964">
+        <time>2010-11-21T19:54:51Z</time>
+        <name>Penzance</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="49.981777" lon="-6.323404">
+        <time>2010-11-21T19:55:29Z</time>
+        <name>Round Island</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="49.904732" lon="-6.300631">
+        <time>2010-11-21T19:55:59Z</time>
+        <name>Scilly</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="49.872662" lon="-6.446381">
+        <time>2010-11-21T19:56:31Z</time>
+        <name>Bishop Rock</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+</gpx>

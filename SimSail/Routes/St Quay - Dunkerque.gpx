@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:simsail="http://www.simsail.net">
+	<rte>
+		<name>St Quay - Dunkerque</name>
+		<rtept lat="48.6772" lon="-2.82694">
+			<name>0</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.7425" lon="-2.00318">
+			<name>1</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.4254" lon="1.06566">
+			<name>2</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.6461" lon="1.43677">
+			<name>3</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.8758" lon="1.56311">
+			<name>4</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.9715" lon="1.75987">
+			<name>5</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="51.0016" lon="1.86451">
+			<name>6</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="51.0649" lon="2.33673">
+			<name>7</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:simsail="http://www.simsail.net">
+	<rte>
+		<rtept lat="49.6725" lon="-1.59107">
+			<name>0</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.7243" lon="-1.48336">
+			<name>1</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.3848" lon="1.04414">
+			<name>2</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.697" lon="1.4688">
+			<name>3</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.8702" lon="1.55147">
+			<name>4</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.9812" lon="1.74989">
+			<name>5</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="51.0599" lon="2.32742">
+			<name>6</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>

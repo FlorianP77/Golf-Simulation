@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:simsail="http://www.simsail.net">
+	<rte>
+		<rtept lat="49.49" lon="0.0716667">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.5733" lon="-1.23">
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>

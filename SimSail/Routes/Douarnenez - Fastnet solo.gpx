@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:simsail="http://www.simsail.net">
+	<rte>
+		<name>Douarnenez - Fastnet solo</name>
+		<rtept lat="48.1174" lon="-4.33064">
+			<name>0</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.9436" lon="-5.81716">
+			<name>1</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.3331" lon="-5.80707">
+			<name>2</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="51.3888" lon="-9.45187">
+			<name>3</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="51.3906" lon="-9.60208">
+			<name>4</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="51.2575" lon="-9.61277">
+			<name>5</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.6802" lon="-6.07287">
+			<name>6</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.1107" lon="-4.34947">
+			<name>7</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>

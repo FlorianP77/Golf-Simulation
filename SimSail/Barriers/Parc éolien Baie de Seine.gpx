@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:simsail="http://www.simsail.net">
+	<rte>
+		<name>Parc éolien Baie de Seine</name>
+		<rtept lat="49.5224" lon="-0.64877">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.5232" lon="-0.593787">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.4918" lon="-0.546259">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.4899" lon="-0.49842">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.4784" lon="-0.453066">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.4233" lon="-0.406781">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.4364" lon="-0.537561">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.522" lon="-0.64877">
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>

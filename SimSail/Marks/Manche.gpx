@@ -1,0 +1,643 @@
+<?xml version="1.0"?>
+<gpx>
+	<wpt lat="48.5998" lon="-4.56033">
+		<type>WPT</type>
+		<name>Aber Wrac'h</name>
+	</wpt>
+	<wpt lat="48.8358" lon="-3.08883">
+		<type>WPT</type>
+		<name>Anse de Pommelin</name>
+	</wpt>
+	<wpt lat="48.5217" lon="-4.76133">
+		<type>WPT</type>
+		<name>Argenton</name>
+	</wpt>
+	<wpt lat="48.5887" lon="-2.2025">
+		<type>WPT</type>
+		<name>Baie de l'Arguenon</name>
+	</wpt>
+	<wpt lat="49.6717" lon="-1.25833">
+		<type>WPT</type>
+		<name>Barfleur</name>
+	</wpt>
+	<wpt lat="49.368" lon="-1.78733">
+		<type>WPT</type>
+		<name>Barneville-Carteret - Port des Isles</name>
+	</wpt>
+	<wpt lat="49.5032" lon="-2.50367">
+		<type>WPT</type>
+		<name>Beaucette - marina</name>
+	</wpt>
+	<wpt lat="48.6017" lon="-2.81667">
+		<type>WPT</type>
+		<name>Binic</name>
+	</wpt>
+	<wpt lat="50.8045" lon="-0.831">
+		<type>WPT</type>
+		<name>Birdham Pool</name>
+	</wpt>
+	<wpt lat="50.828" lon="-0.861">
+		<type>WPT</type>
+		<name>Bosham</name>
+	</wpt>
+	<wpt lat="50.7175" lon="1.6015">
+		<type>WPT</type>
+		<name>Boulogne-sur-Mer - bassin Napoléon</name>
+	</wpt>
+	<wpt lat="50.7175" lon="1.6015">
+		<type>WPT</type>
+		<name>Boulogne-sur-Mer - YC de Boulogne</name>
+	</wpt>
+	<wpt lat="49.726" lon="-2.2">
+		<type>WPT</type>
+		<name>Braye</name>
+	</wpt>
+	<wpt lat="48.726" lon="-2.94583">
+		<type>WPT</type>
+		<name>Bréhec</name>
+	</wpt>
+	<wpt lat="50.8075" lon="-0.105">
+		<type>WPT</type>
+		<name>Brighton</name>
+	</wpt>
+	<wpt lat="50.4037" lon="-3.515">
+		<type>WPT</type>
+		<name>Brixham</name>
+	</wpt>
+	<wpt lat="50.6955" lon="-1.96467">
+		<type>WPT</type>
+		<name>Brownsea island</name>
+	</wpt>
+	<wpt lat="49.9532" lon="-6.34967">
+		<type>WPT</type>
+		<name>Bryher</name>
+	</wpt>
+	<wpt lat="49.1833" lon="-0.3555">
+		<type>WPT</type>
+		<name>Caen - bassin Saint-Pierre</name>
+	</wpt>
+	<wpt lat="49.3112" lon="-1.23467">
+		<type>WPT</type>
+		<name>Carentan</name>
+	</wpt>
+	<wpt lat="49.65" lon="-1.61667">
+		<type>WPT</type>
+		<name>Cherbourg - Port Chantereyne</name>
+	</wpt>
+	<wpt lat="50.7883" lon="-0.924">
+		<type>WPT</type>
+		<name>Chichester Harbour</name>
+	</wpt>
+	<wpt lat="50.8055" lon="-0.826333">
+		<type>WPT</type>
+		<name>Chichester Marina</name>
+	</wpt>
+	<wpt lat="49.3345" lon="-0.461167">
+		<type>WPT</type>
+		<name>Courseulles-sur-Mer</name>
+	</wpt>
+	<wpt lat="50.762" lon="-1.29467">
+		<type>WPT</type>
+		<name>Cowes - Cowes Yacht Haven</name>
+	</wpt>
+	<wpt lat="50.7515" lon="-1.29217">
+		<type>WPT</type>
+		<name>Cowes - East Cowes Marina</name>
+	</wpt>
+	<wpt lat="50.7597" lon="-1.29267">
+		<type>WPT</type>
+		<name>Cowes - Shepards Wharf</name>
+	</wpt>
+	<wpt lat="49.9613" lon="-6.35">
+		<type>WPT</type>
+		<name>Cromwell's Tower</name>
+	</wpt>
+	<wpt lat="48.5777" lon="-2.56683">
+		<type>WPT</type>
+		<name>Dahouet</name>
+	</wpt>
+	<wpt lat="50.35" lon="-3.56767">
+		<type>WPT</type>
+		<name>Dartmouth - Darthaven Marina</name>
+	</wpt>
+	<wpt lat="50.35" lon="-3.567">
+		<type>WPT</type>
+		<name>Dartmouth - Noss-On-Dart Marina</name>
+	</wpt>
+	<wpt lat="49.3717" lon="0.0708333">
+		<type>WPT</type>
+		<name>Deauville - Port-Deauville</name>
+	</wpt>
+	<wpt lat="49.3642" lon="0.0778333">
+		<type>WPT</type>
+		<name>Deauville - vieux port</name>
+	</wpt>
+	<wpt lat="49.424" lon="-2.35033">
+		<type>WPT</type>
+		<name>Derrible bay</name>
+	</wpt>
+	<wpt lat="49.5528" lon="-1.86383">
+		<type>WPT</type>
+		<name>Diélette</name>
+	</wpt>
+	<wpt lat="49.9337" lon="1.0835">
+		<type>WPT</type>
+		<name>Dieppe</name>
+	</wpt>
+	<wpt lat="48.4885" lon="-2.00067">
+		<type>WPT</type>
+		<name>Dinan - Le Lyvet</name>
+	</wpt>
+	<wpt lat="48.6333" lon="-2.05">
+		<type>WPT</type>
+		<name>Dinard</name>
+	</wpt>
+	<wpt lat="49.295" lon="-0.0916667">
+		<type>WPT</type>
+		<name>Dives-sur-Mer - Port Guillaume</name>
+	</wpt>
+	<wpt lat="49.4222" lon="-2.35767">
+		<type>WPT</type>
+		<name>Dixcart Bay</name>
+	</wpt>
+	<wpt lat="50.7888" lon="0.3345">
+		<type>WPT</type>
+		<name>Eastbourne - Sovereign Harbour</name>
+	</wpt>
+	<wpt lat="50.8432" lon="-0.933">
+		<type>WPT</type>
+		<name>Emsworth - marina</name>
+	</wpt>
+	<wpt lat="48.635" lon="-2.48">
+		<type>WPT</type>
+		<name>Erquy</name>
+	</wpt>
+	<wpt lat="50.5167" lon="1.63333">
+		<type>WPT</type>
+		<name>Etaples</name>
+	</wpt>
+	<wpt lat="50.159" lon="-5.08267">
+		<type>WPT</type>
+		<name>Falmouth - Falmouth Marina</name>
+	</wpt>
+	<wpt lat="50.1792" lon="-5.05333">
+		<type>WPT</type>
+		<name>Falmouth - Mylor Yacht Harbor</name>
+	</wpt>
+	<wpt lat="50.1527" lon="-5.06333">
+		<type>WPT</type>
+		<name>Falmouth - Port Pendennis marina</name>
+	</wpt>
+	<wpt lat="50.1508" lon="-5.05067">
+		<type>WPT</type>
+		<name>Falmouth - Visitors Yacht Haven</name>
+	</wpt>
+	<wpt lat="49.765" lon="0.363333">
+		<type>WPT</type>
+		<name>Fécamp</name>
+	</wpt>
+	<wpt lat="50.3333" lon="-4.636">
+		<type>WPT</type>
+		<name>Fowey</name>
+	</wpt>
+	<wpt lat="49.1963" lon="-2.023">
+		<type>WPT</type>
+		<name>Gorey</name>
+	</wpt>
+	<wpt lat="50.7972" lon="-1.11633">
+		<type>WPT</type>
+		<name>Gosport</name>
+	</wpt>
+	<wpt lat="49.3888" lon="-1.04833">
+		<type>WPT</type>
+		<name>Grandcamp Maisy</name>
+	</wpt>
+	<wpt lat="48.8305" lon="-1.59717">
+		<type>WPT</type>
+		<name>Granville - Le Hérel</name>
+	</wpt>
+	<wpt lat="50.8712" lon="-1.31083">
+		<type>WPT</type>
+		<name>Hamble - Mercury Yacht Harbour</name>
+	</wpt>
+	<wpt lat="50.853" lon="-1.31133">
+		<type>WPT</type>
+		<name>Hamble Point Marina</name>
+	</wpt>
+	<wpt lat="50.7205" lon="-1.998">
+		<type>WPT</type>
+		<name>Hamworthy - Cobb's Quay Marina</name>
+	</wpt>
+	<wpt lat="50.0975" lon="-5.1265">
+		<type>WPT</type>
+		<name>Helford</name>
+	</wpt>
+	<wpt lat="49.4283" lon="0.246667">
+		<type>WPT</type>
+		<name>Honfleur</name>
+	</wpt>
+	<wpt lat="50.876" lon="-1.39917">
+		<type>WPT</type>
+		<name>Hythe Marina Village</name>
+	</wpt>
+	<wpt lat="48.8767" lon="-3.488">
+		<type>WPT</type>
+		<name>Ile aux Moines</name>
+	</wpt>
+	<wpt lat="48.8487" lon="-3">
+		<type>WPT</type>
+		<name>Ile de Bréhat</name>
+	</wpt>
+	<wpt lat="50.6917" lon="-1.29167">
+		<type>WPT</type>
+		<name>Ile de Wight</name>
+	</wpt>
+	<wpt lat="49.3222" lon="-1.1055">
+		<type>WPT</type>
+		<name>Isigny-sur-Mer</name>
+	</wpt>
+	<wpt lat="48.8388" lon="-2.99583">
+		<type>WPT</type>
+		<name>La Chambre</name>
+	</wpt>
+	<wpt lat="48.6167" lon="-2.02333">
+		<type>WPT</type>
+		<name>La Rance</name>
+	</wpt>
+	<wpt lat="48.6192" lon="-2.15">
+		<type>WPT</type>
+		<name>Lancieux - port de L'Islet</name>
+	</wpt>
+	<wpt lat="50.7928" lon="-1.03433">
+		<type>WPT</type>
+		<name>Langstone - Southsea Marina</name>
+	</wpt>
+	<wpt lat="50.8117" lon="-1.01667">
+		<type>WPT</type>
+		<name>Langstone Bay</name>
+	</wpt>
+	<wpt lat="50.2167" lon="1.63333">
+		<type>WPT</type>
+		<name>Le Crotoy</name>
+	</wpt>
+	<wpt lat="49.4867" lon="0.0916667">
+		<type>WPT</type>
+		<name>Le Havre</name>
+	</wpt>
+	<wpt lat="49.43" lon="-2.3785">
+		<type>WPT</type>
+		<name>Le Havre Gosselin</name>
+	</wpt>
+	<wpt lat="48.5837" lon="-4.517">
+		<type>WPT</type>
+		<name>Le Paluden</name>
+	</wpt>
+	<wpt lat="48.8782" lon="-1.82483">
+		<type>WPT</type>
+		<name>Le Sound</name>
+	</wpt>
+	<wpt lat="50.5372" lon="1.59533">
+		<type>WPT</type>
+		<name>Le Touquet</name>
+	</wpt>
+	<wpt lat="50.065" lon="1.375">
+		<type>WPT</type>
+		<name>Le Tréport</name>
+	</wpt>
+	<wpt lat="48.784" lon="-3.1">
+		<type>WPT</type>
+		<name>Lézardrieux</name>
+	</wpt>
+	<wpt lat="50.7037" lon="-1.95133">
+		<type>WPT</type>
+		<name>Lilliput - Salterns Marina</name>
+	</wpt>
+	<wpt lat="48.6842" lon="-3.63483">
+		<type>WPT</type>
+		<name>Locquirec</name>
+	</wpt>
+	<wpt lat="48.8228" lon="-3.0605">
+		<type>WPT</type>
+		<name>Loguivy-de-la-Mer</name>
+	</wpt>
+	<wpt lat="50.7502" lon="-1.51767">
+		<type>WPT</type>
+		<name>Lymington - Marina</name>
+	</wpt>
+	<wpt lat="50.755" lon="-1.525">
+		<type>WPT</type>
+		<name>Lymington - Yacht Haven</name>
+	</wpt>
+	<wpt lat="50.2693" lon="-4.78333">
+		<type>WPT</type>
+		<name>Mevagissey</name>
+	</wpt>
+	<wpt lat="50.3533" lon="-4.195">
+		<type>WPT</type>
+		<name>Millbrook</name>
+	</wpt>
+	<wpt lat="48.5862" lon="-3.83667">
+		<type>WPT</type>
+		<name>Morlaix</name>
+	</wpt>
+	<wpt lat="50.7837" lon="0.0576667">
+		<type>WPT</type>
+		<name>Newhaven</name>
+	</wpt>
+	<wpt lat="50.7252" lon="-1.28">
+		<type>WPT</type>
+		<name>Newport - Island Harbour</name>
+	</wpt>
+	<wpt lat="50.9092" lon="-1.38">
+		<type>WPT</type>
+		<name>Northam - Shamrock Quay marina</name>
+	</wpt>
+	<wpt lat="50.8342" lon="-0.964667">
+		<type>WPT</type>
+		<name>Northney - marina</name>
+	</wpt>
+	<wpt lat="49.2833" lon="-0.247167">
+		<type>WPT</type>
+		<name>Ouistreham</name>
+	</wpt>
+	<wpt lat="48.7833" lon="-3.04267">
+		<type>WPT</type>
+		<name>Paimpol</name>
+	</wpt>
+	<wpt lat="50.7107" lon="-1.9595">
+		<type>WPT</type>
+		<name>Parkstone - Parkstone Haven</name>
+	</wpt>
+	<wpt lat="50.1172" lon="-5.53">
+		<type>WPT</type>
+		<name>Penzance</name>
+	</wpt>
+	<wpt lat="48.805" lon="-3.43833">
+		<type>WPT</type>
+		<name>Perros-Guirec - Le Linkin</name>
+	</wpt>
+	<wpt lat="48.5175" lon="-1.9835">
+		<type>WPT</type>
+		<name>Plouër-sur-Rance</name>
+	</wpt>
+	<wpt lat="48.675" lon="-3.85">
+		<type>WPT</type>
+		<name>Plougasnou</name>
+	</wpt>
+	<wpt lat="48.8363" lon="-3.48833">
+		<type>WPT</type>
+		<name>Ploumanac'h</name>
+	</wpt>
+	<wpt lat="50.3508" lon="-4.16667">
+		<type>WPT</type>
+		<name>Plymouth - Mayflower Int. Marina</name>
+	</wpt>
+	<wpt lat="50.3513" lon="-4.16683">
+		<type>WPT</type>
+		<name>Plymouth - Millbay Dock</name>
+	</wpt>
+	<wpt lat="50.3508" lon="-4.12017">
+		<type>WPT</type>
+		<name>Plymouth - Plymouth Yacht Haven</name>
+	</wpt>
+	<wpt lat="50.3513" lon="-4.16683">
+		<type>WPT</type>
+		<name>Plymouth - Queen Anne's Battery Marina</name>
+	</wpt>
+	<wpt lat="50.3513" lon="-4.16683">
+		<type>WPT</type>
+		<name>Plymouth - Sutton Harbour Marina</name>
+	</wpt>
+	<wpt lat="49.0055" lon="-1.57217">
+		<type>WPT</type>
+		<name>Pointe d'Agon</name>
+	</wpt>
+	<wpt lat="48.7" lon="-3.15">
+		<type>WPT</type>
+		<name>Pontrieux</name>
+	</wpt>
+	<wpt lat="48.6785" lon="-4.31883">
+		<type>WPT</type>
+		<name>Pontusval</name>
+	</wpt>
+	<wpt lat="50.7072" lon="-1.997">
+		<type>WPT</type>
+		<name>Poole - Dorset Yacht Co</name>
+	</wpt>
+	<wpt lat="50.7115" lon="-1.9855">
+		<type>WPT</type>
+		<name>Poole - Poole Quay</name>
+	</wpt>
+	<wpt lat="50.715" lon="-1.99283">
+		<type>WPT</type>
+		<name>Poole - Sunseeker Int. Marina</name>
+	</wpt>
+	<wpt lat="50.6807" lon="-1.94767">
+		<type>WPT</type>
+		<name>Poole Bay</name>
+	</wpt>
+	<wpt lat="48.8337" lon="-3.30083">
+		<type>WPT</type>
+		<name>Port Blanc</name>
+	</wpt>
+	<wpt lat="50.8613" lon="-1.31183">
+		<type>WPT</type>
+		<name>Port Hamble Marina</name>
+	</wpt>
+	<wpt lat="48.7638" lon="-2.95">
+		<type>WPT</type>
+		<name>Port Lazo</name>
+	</wpt>
+	<wpt lat="50.8438" lon="-1.10417">
+		<type>WPT</type>
+		<name>Port Solent</name>
+	</wpt>
+	<wpt lat="49.3528" lon="-0.7555">
+		<type>WPT</type>
+		<name>Port-en-Bessin</name>
+	</wpt>
+	<wpt lat="49.3177" lon="-1.70083">
+		<type>WPT</type>
+		<name>Portbail</name>
+	</wpt>
+	<wpt lat="48.5507" lon="-4.70017">
+		<type>WPT</type>
+		<name>Portsall</name>
+	</wpt>
+	<wpt lat="50.7943" lon="-1.10667">
+		<type>WPT</type>
+		<name>Portsmouth - Gunwharf Quays</name>
+	</wpt>
+	<wpt lat="50.7833" lon="-1.10117">
+		<type>WPT</type>
+		<name>Portsmouth - Haslar Marina</name>
+	</wpt>
+	<wpt lat="50.8013" lon="-1.12083">
+		<type>WPT</type>
+		<name>Portsmouth - Royal Clarence Marina</name>
+	</wpt>
+	<wpt lat="48.7013" lon="-3.8175">
+		<type>WPT</type>
+		<name>Primel Le Diben</name>
+	</wpt>
+	<wpt lat="48.8512" lon="-3.10167">
+		<type>WPT</type>
+		<name>rade de Bréhat</name>
+	</wpt>
+	<wpt lat="48.7192" lon="-3.96">
+		<type>WPT</type>
+		<name>Roscoff - Port Bloscon</name>
+	</wpt>
+	<wpt lat="48.7177" lon="-3.96767">
+		<type>WPT</type>
+		<name>Roscoff - vieux port</name>
+	</wpt>
+	<wpt lat="48.6828" lon="-3.613">
+		<type>WPT</type>
+		<name>Sables d'or les Pins</name>
+	</wpt>
+	<wpt lat="49.8905" lon="-6.33533">
+		<type>WPT</type>
+		<name>Saint Agnes - The Cove</name>
+	</wpt>
+	<wpt lat="49.187" lon="-2.16667">
+		<type>WPT</type>
+		<name>Saint Aubin</name>
+	</wpt>
+	<wpt lat="49.22" lon="-2.01917">
+		<type>WPT</type>
+		<name>Saint Catherine</name>
+	</wpt>
+	<wpt lat="49.9663" lon="-6.30617">
+		<type>WPT</type>
+		<name>Saint Martin - Hotel Lower Town</name>
+	</wpt>
+	<wpt lat="48.5337" lon="-2.71683">
+		<type>WPT</type>
+		<name>Saint-Brieuc - Le Légué</name>
+	</wpt>
+	<wpt lat="48.64" lon="-2.24333">
+		<type>WPT</type>
+		<name>Saint-Cast</name>
+	</wpt>
+	<wpt lat="49.1705" lon="-2.12033">
+		<type>WPT</type>
+		<name>Saint-Hélier</name>
+	</wpt>
+	<wpt lat="49.18" lon="-2.11983">
+		<type>WPT</type>
+		<name>Saint-Hélier - Elisabeth marina</name>
+	</wpt>
+	<wpt lat="49.1758" lon="-2.11533">
+		<type>WPT</type>
+		<name>Saint-Hélier - La Collette</name>
+	</wpt>
+	<wpt lat="48.6472" lon="-2.02217">
+		<type>WPT</type>
+		<name>Saint-Malo - bassin Vauban</name>
+	</wpt>
+	<wpt lat="48.6403" lon="-2.02917">
+		<type>WPT</type>
+		<name>Saint-Malo - port des Bas Sablons</name>
+	</wpt>
+	<wpt lat="48.6458" lon="-2.81783">
+		<type>WPT</type>
+		<name>Saint-Quay Portrieux - Port d'Armor</name>
+	</wpt>
+	<wpt lat="48.567" lon="-1.96767">
+		<type>WPT</type>
+		<name>Saint-Suliac</name>
+	</wpt>
+	<wpt lat="49.5862" lon="-1.25833">
+		<type>WPT</type>
+		<name>Saint-Vaast-la-Hougue</name>
+	</wpt>
+	<wpt lat="49.8667" lon="0.716667">
+		<type>WPT</type>
+		<name>Saint-Valéry-en-Caux</name>
+	</wpt>
+	<wpt lat="50.1825" lon="1.6445">
+		<type>WPT</type>
+		<name>Saint-Valéry-sur-Somme</name>
+	</wpt>
+	<wpt lat="50.2373" lon="-3.76533">
+		<type>WPT</type>
+		<name>Salcombe</name>
+	</wpt>
+	<wpt lat="50.8302" lon="-0.235333">
+		<type>WPT</type>
+		<name>Shoreham - Lady Bee marina</name>
+	</wpt>
+	<wpt lat="50.895" lon="-1.3875">
+		<type>WPT</type>
+		<name>Southampton - Ocean Village marina</name>
+	</wpt>
+	<wpt lat="50.3758" lon="-4.19617">
+		<type>WPT</type>
+		<name>Southdown Marina</name>
+	</wpt>
+	<wpt lat="50.787" lon="-0.942">
+		<type>WPT</type>
+		<name>Sparkes - marina</name>
+	</wpt>
+	<wpt lat="49.9187" lon="-6.31667">
+		<type>WPT</type>
+		<name>St Mary's</name>
+	</wpt>
+	<wpt lat="49.4553" lon="-2.53333">
+		<type>WPT</type>
+		<name>St Peter Port - Victoria marina</name>
+	</wpt>
+	<wpt lat="49.4813" lon="-2.51">
+		<type>WPT</type>
+		<name>St Sampson's</name>
+	</wpt>
+	<wpt lat="50.8788" lon="-1.29917">
+		<type>WPT</type>
+		<name>Swanwick Marina</name>
+	</wpt>
+	<wpt lat="49.7293" lon="-2.25733">
+		<type>WPT</type>
+		<name>The Lug</name>
+	</wpt>
+	<wpt lat="50.3727" lon="-4.1925">
+		<type>WPT</type>
+		<name>Torpoint</name>
+	</wpt>
+	<wpt lat="50.4583" lon="-3.525">
+		<type>WPT</type>
+		<name>Torquay</name>
+	</wpt>
+	<wpt lat="48.7725" lon="-3.58633">
+		<type>WPT</type>
+		<name>Trébeurden</name>
+	</wpt>
+	<wpt lat="48.7862" lon="-3.22083">
+		<type>WPT</type>
+		<name>Tréguier</name>
+	</wpt>
+	<wpt lat="49.9548" lon="-6.34167">
+		<type>WPT</type>
+		<name>Tresco - New Grimsby Sound</name>
+	</wpt>
+	<wpt lat="48.6737" lon="-2.8625">
+		<type>WPT</type>
+		<name>Treveneuc - anse de St-Marc</name>
+	</wpt>
+	<wpt lat="48.7673" lon="-3.5835">
+		<type>WPT</type>
+		<name>Trozoul</name>
+	</wpt>
+	<wpt lat="50.8733" lon="-1.308">
+		<type>WPT</type>
+		<name>Universal Marina</name>
+	</wpt>
+	<wpt lat="50.6083" lon="-2.4555">
+		<type>WPT</type>
+		<name>Weymouth</name>
+	</wpt>
+	<wpt lat="50.707" lon="-1.5">
+		<type>WPT</type>
+		<name>Yarmouth</name>
+	</wpt>
+</gpx>

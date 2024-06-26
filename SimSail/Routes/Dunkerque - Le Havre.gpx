@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:simsail="http://www.simsail.net">
+  <rte>
+    <extensions>
+      <opencpn:guid>7b51ffff-49fc-40ea-a3b5-1cd22b080000</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+      <opencpn:planned_speed>6.00</opencpn:planned_speed>
+      <opencpn:time_display>PC</opencpn:time_display>
+    </extensions>
+    <rtept lat="51.066251783" lon="2.336569267">
+      <time>2015-06-10T15:28:23Z</time>
+      <name>001</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>44d6ffff-57b6-4e54-b631-e2b50f5d0000</opencpn:guid>
+        <opencpn:auto_name>1</opencpn:auto_name>
+        <opencpn:arrival_radius>0.001</opencpn:arrival_radius>
+      </extensions>
+    </rtept>
+    <rtept lat="50.990991524" lon="1.745937046">
+      <time>2015-06-10T15:28:50Z</time>
+      <name>002</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>4f0bffff-9797-4aa9-83d3-a8335f3affff</opencpn:guid>
+        <opencpn:auto_name>1</opencpn:auto_name>
+        <opencpn:arrival_radius>0.001</opencpn:arrival_radius>
+      </extensions>
+    </rtept>
+    <rtept lat="50.876086981" lon="1.560196930">
+      <time>2015-06-10T15:28:57Z</time>
+      <name>003</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>06a80000-00c2-47cc-8a87-1c1a5535ffff</opencpn:guid>
+        <opencpn:auto_name>1</opencpn:auto_name>
+        <opencpn:arrival_radius>0.001</opencpn:arrival_radius>
+      </extensions>
+    </rtept>
+    <rtept lat="49.506218277" lon="0.041077623">
+      <time>2015-06-10T15:29:35Z</time>
+      <name>004</name>
+      <sym>diamond</sym>
+      <type>WPT</type>
+      <extensions>
+        <opencpn:guid>5e74ffff-5e86-440a-b369-923d52ebffff</opencpn:guid>
+        <opencpn:auto_name>1</opencpn:auto_name>
+        <opencpn:arrival_radius>0.001</opencpn:arrival_radius>
+      </extensions>
+    </rtept>
+  </rte>
+</gpx>

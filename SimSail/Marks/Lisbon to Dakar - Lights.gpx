@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+    <wpt lat="38.782259632" lon="-9.497036214">
+        <time>2010-11-19T20:30:58Z</time>
+        <name>Cabo Roca</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="38.709523953" lon="-9.485622385">
+        <time>2010-11-19T20:31:18Z</time>
+        <name>Cabo Raso</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="38.416532196" lon="-9.214195973">
+        <time>2010-11-19T20:32:01Z</time>
+        <name>Cabo Espichel</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="37.959665132" lon="-8.884586873">
+        <time>2010-11-19T20:32:24Z</time>
+        <name>Cabo Sines</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="37.596170492" lon="-8.812206497">
+        <time>2010-11-19T20:32:43Z</time>
+        <name>Cabo Sardaao</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="37.029362980" lon="-8.992600666">
+        <time>2010-11-19T20:33:02Z</time>
+        <name>Cabo s. Vincente</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="36.976005909" lon="-7.864580336">
+        <time>2010-11-19T20:35:40Z</time>
+        <name>Faro Santa Maria</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="37.187435154" lon="-7.414708457">
+        <time>2010-11-19T20:38:35Z</time>
+        <name>San Antonio</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="37.222024867" lon="-7.127414039">
+        <time>2010-11-19T20:38:58Z</time>
+        <name>El Rompido</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="37.137296304" lon="-6.826757090">
+        <time>2010-11-19T20:39:27Z</time>
+        <name>Picacho</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="37.008802711" lon="-6.569389174">
+        <time>2010-11-19T20:40:01Z</time>
+        <name>Matalascanas</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="36.738447892" lon="-6.443280287">
+        <time>2010-11-19T20:40:39Z</time>
+        <name>Chirpina</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="36.642011894" lon="-6.348629025">
+        <time>2010-11-19T20:41:01Z</time>
+        <name>Rota</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="36.527560856" lon="-6.317449786">
+        <time>2010-11-19T20:41:41Z</time>
+        <name>Cadiz</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="36.299945108" lon="-6.141509794">
+        <time>2010-11-19T20:41:59Z</time>
+        <name>Cabo Roche</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="36.184089799" lon="-6.033496001">
+        <time>2010-11-19T20:42:16Z</time>
+        <name>Trafalgar</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="36.005030789" lon="-5.609235640">
+        <time>2010-11-19T20:42:35Z</time>
+        <name>Tarifa</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="36.078863316" lon="-5.427171154">
+        <time>2010-11-19T20:42:56Z</time>
+        <name>Pta Carnero</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="36.110805918" lon="-5.347552740">
+        <time>2010-11-19T20:43:13Z</time>
+        <name>Pta Europa</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="36.147231620" lon="-5.341985019">
+        <time>2010-11-19T20:43:44Z</time>
+        <name>Gibraltar</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="35.897760515" lon="-5.282410401">
+        <time>2010-11-19T20:44:12Z</time>
+        <name>Mte Hacho</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="35.908753398" lon="-5.482117603">
+        <time>2010-11-19T20:44:51Z</time>
+        <name>Pta Cires</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="35.817607317" lon="-5.748950646">
+        <time>2010-11-19T20:45:47Z</time>
+        <name>Pta Malabata</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="35.791417297" lon="-5.793492416">
+        <time>2010-11-19T20:46:13Z</time>
+        <name>Tanger</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="35.791191484" lon="-5.924612252">
+        <time>2010-11-19T20:46:33Z</time>
+        <name>Espartel</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="35.191901970" lon="-6.167643286">
+        <time>2010-11-19T20:46:55Z</time>
+        <name>Larache</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="33.609146027" lon="-7.651162620">
+        <time>2010-11-19T20:48:29Z</time>
+        <name>Casablanca</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="33.247402555" lon="-8.513881031">
+        <time>2010-11-19T20:48:54Z</time>
+        <name>Al Jadida</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="32.541006902" lon="-9.281113023">
+        <time>2010-11-19T20:49:38Z</time>
+        <name>Beddouza</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="32.332368345" lon="-9.274431758">
+        <time>2010-11-19T20:49:56Z</time>
+        <name>Safi</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="31.701672634" lon="-9.665285791">
+        <time>2010-11-19T20:50:14Z</time>
+        <name>Hadid</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="31.393257961" lon="-9.835658062">
+        <time>2010-11-19T20:50:30Z</time>
+        <name>Sim</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="30.631681252" lon="-9.881313377">
+        <time>2010-11-19T20:50:45Z</time>
+        <name>Ghir</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="30.376475365" lon="-9.559499087">
+        <time>2010-11-19T20:51:39Z</time>
+        <name>Agadir</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="29.665419406" lon="-9.968169829">
+        <time>2010-11-19T20:52:01Z</time>
+        <name>Aglou</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="29.379575452" lon="-10.168607794">
+        <time>2010-11-19T20:52:16Z</time>
+        <name>Sidi Ifni</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="28.501087091" lon="-11.336158946">
+        <time>2010-11-19T20:52:57Z</time>
+        <name>Nachtigal</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="27.916733750" lon="-12.940219446">
+        <time>2010-11-19T20:53:48Z</time>
+        <name>Cabo Yubi</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="27.066372069" lon="-13.459270262">
+        <time>2010-11-19T20:54:36Z</time>
+        <name>Fosbucraa</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="26.425107718" lon="-14.184883537">
+        <time>2010-11-19T20:55:14Z</time>
+        <name>El Cabino</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="26.124561561" lon="-14.495562384">
+        <time>2010-11-19T20:55:32Z</time>
+        <name>Boujdour</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="25.584441586" lon="-14.691546173">
+        <time>2010-11-19T20:55:49Z</time>
+        <name>Pta Corral</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="25.085246489" lon="-14.840761103">
+        <time>2010-11-19T20:56:17Z</time>
+        <name>Pena Grande</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="23.726223676" lon="-15.953470200">
+        <time>2010-11-19T20:56:56Z</time>
+        <name>Arcipres Gde</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="23.086255720" lon="-16.212926012">
+        <time>2010-11-19T20:57:20Z</time>
+        <name>Las Raimas</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="22.289017759" lon="-16.689522953">
+        <time>2010-11-19T20:57:38Z</time>
+        <name>Barbas</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="20.772603808" lon="-17.056992557">
+        <time>2010-11-19T20:57:54Z</time>
+        <name>Cap Blanc</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="17.994566341" lon="-16.026546542">
+        <time>2010-11-19T20:58:44Z</time>
+        <name>Port Amitie</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="14.722914423" lon="-17.501992680">
+        <time>2010-11-19T21:00:14Z</time>
+        <name>Les Mamelles</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+    <wpt lat="14.649263339" lon="-17.432674550">
+        <time>2010-11-19T21:01:05Z</time>
+        <name>Cap Manuel</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:prop>A,0,1,1,1</opencpn:prop>
+        </extensions>
+    </wpt>
+</gpx>

@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:opencpn="http://www.opencpn.org">
+    <wpt lat="47.717800000" lon="-3.956966667">
+        <time>2011-11-13T10:13:56Z</time>
+        <name>Penfret (Glenans)</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4c73ffff-eb71-4865-9b4c-04421dc00000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.648683333" lon="-3.507133333">
+        <time>2011-11-13T10:21:40Z</time>
+        <name>Pen Men</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4827ffff-0c30-4774-8873-20be73c8ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.620200000" lon="-3.422033333">
+        <time>2011-11-13T10:23:59Z</time>
+        <name>Pointe des Chats</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>3b8f0000-f7d5-4678-ae47-a4416e28ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.388683333" lon="-3.252483333">
+        <time>2011-11-13T10:26:01Z</time>
+        <name>Pte des Poulains</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>1dd10000-e96f-4c5f-9488-6d3e36a30000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.310116667" lon="-3.227583333">
+        <time>2011-11-13T10:27:17Z</time>
+        <name>Goulphar</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>46a0ffff-c973-4b4b-810c-3ec811b20000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.301083333" lon="-2.636300000">
+        <time>2011-11-13T10:28:42Z</time>
+        <name>Le Four</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>55e7ffff-e7b5-4ce3-89e9-f26d09020000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.179016667" lon="-2.469050000">
+        <time>2011-11-13T10:29:54Z</time>
+        <name>La Banche</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>33670000-b731-4da6-9783-07ba0ed70000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="47.047614268" lon="-2.358373529">
+        <time>2011-11-13T10:30:49Z</time>
+        <name>Ile du Pilier</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>34fc0000-28c2-4c71-8274-71547a7effff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="46.722858757" lon="-2.381439775">
+        <time>2011-11-13T10:32:04Z</time>
+        <name>Ile d&apos;Yeu W</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6760ffff-7d6c-4b16-b0a6-23c471c0ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="46.691619920" lon="-2.286868168">
+        <time>2011-11-13T10:33:04Z</time>
+        <name>Ile d&apos;Yeu E</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>20350000-6b1c-4791-8157-753203e00000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="46.488920804" lon="-1.805648618">
+        <time>2011-11-13T10:34:06Z</time>
+        <name>Les Sables d&apos;Olonne</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>746effff-c0e5-4603-8f6b-ecc362f6ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="46.343415621" lon="-1.465133167">
+        <time>2011-11-13T10:34:35Z</time>
+        <name>Pte du Grouin-du-Cou</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>7e8cffff-0df2-4d36-bb09-052616ae0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="46.243205422" lon="-1.561434743">
+        <time>2011-11-13T10:35:50Z</time>
+        <name>Pte des Baleines</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>44bfffff-9e6d-48b4-8823-0a5c4f10ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="46.045236830" lon="-1.401124336">
+        <time>2011-11-13T10:36:42Z</time>
+        <name>Pte de Chassiron</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>17580000-1850-457f-8df8-ccab10720000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="46.013607921" lon="-1.177958409">
+        <time>2011-11-13T10:37:50Z</time>
+        <name>Ile d&apos;Aix</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>00f80000-92b1-4a1a-84d8-5df231f00000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="45.691086980" lon="-1.231010774">
+        <time>2011-11-13T10:39:05Z</time>
+        <name>La Coubre</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>3a390000-f2e5-4793-82ed-8a2714c30000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="45.588679742" lon="-1.175651785">
+        <time>2011-11-13T10:39:32Z</time>
+        <name>Corduan</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>19fa0000-a427-4fcb-b3c2-1e386719ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="45.141396129" lon="-1.165271974">
+        <time>2011-11-13T10:40:14Z</time>
+        <name>Hourtin</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>668cffff-f319-46ef-895e-11764567ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="44.647104376" lon="-1.251770395">
+        <time>2011-11-13T10:41:08Z</time>
+        <name>Cap Ferret</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>1ee40000-ee8f-4fad-a2f6-855f7527ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="44.098062666" lon="-1.318662508">
+        <time>2011-11-13T10:41:30Z</time>
+        <name>Contis</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>46aaffff-2fd0-496b-b577-15ee29be0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.495787337" lon="-1.547018339">
+        <time>2011-11-13T10:41:52Z</time>
+        <name>Bayonne</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>1c8d0000-1758-4711-805f-6c680d400000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.384411498" lon="-1.797863761">
+        <time>2011-11-13T10:42:41Z</time>
+        <name>Pasajes (aero)</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>27e10000-751a-4082-8539-361a4857ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.316480654" lon="-2.006036627">
+        <time>2011-11-13T10:43:02Z</time>
+        <name>San Sebastian</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>37a80000-eba9-43c4-9267-d9876e20ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.300954919" lon="-2.202676371">
+        <time>2011-11-13T10:43:24Z</time>
+        <name>Zumaya</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>208c0000-d665-4a6c-94be-38886763ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.362195578" lon="-2.515800656">
+        <time>2011-11-13T10:43:39Z</time>
+        <name>Cabo de Sta Catalina</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>67abffff-ab07-427d-9e62-dec31c160000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.449754521" lon="-2.752806329">
+        <time>2011-11-13T10:44:35Z</time>
+        <name>Cabo Machichaco</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>278e0000-9429-495e-8fce-864743caffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.430075263" lon="-2.940796231">
+        <time>2011-11-13T10:45:39Z</time>
+        <name>Cabo Vilano</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>10610000-9b7b-41de-8108-8f5f6615ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.504153173" lon="-2.683607593">
+        <time>2011-11-13T10:45:59Z</time>
+        <name>Prod. Gaviota</name>
+        <sym>platform</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>577effff-7dd2-42e2-9939-38780f5b0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.378963063" lon="-3.217014523">
+        <time>2011-11-13T10:46:51Z</time>
+        <name>Castillo de Sta Ana</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6eecffff-ad05-4e5a-b656-48e84017ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.462312402" lon="-3.438450481">
+        <time>2011-11-13T10:47:11Z</time>
+        <name>Pta del Pescador</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>691fffff-6230-4070-913e-3be8109a0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.504153173" lon="-3.600490856">
+        <time>2011-11-13T10:47:31Z</time>
+        <name>Cabo Ajo</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>1ea10000-2004-4aff-9396-d15501c60000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.491603984" lon="-3.789634070">
+        <time>2011-11-13T10:47:51Z</time>
+        <name>Cabo Mayor</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6773ffff-06b2-458e-93d4-b2eb21960000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.437194031" lon="-4.039902835">
+        <time>2011-11-13T10:48:06Z</time>
+        <name>Pta del Torco de Fuera</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6b5fffff-3c24-4acc-ad7a-d853047e0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.396144925" lon="-4.536980428">
+        <time>2011-11-13T10:49:40Z</time>
+        <name>Pta de San Emeterio</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6082ffff-f04b-4370-a92e-f60d526dffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.421699169" lon="-4.755533106">
+        <time>2011-11-13T10:50:10Z</time>
+        <name>Llanes</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>5d13ffff-ea7f-48a0-a17d-f9bd639bffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.469113499" lon="-5.089128683">
+        <time>2011-11-13T10:50:56Z</time>
+        <name>Ribadesella</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4e10ffff-50c6-476e-bce8-7132671affff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.533110924" lon="-5.300184830">
+        <time>2011-11-13T10:51:14Z</time>
+        <name>Cabo Lastres</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>0ba80000-90a3-41e0-954c-e4bb7d3effff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.550666977" lon="-5.408596185">
+        <time>2011-11-13T10:51:38Z</time>
+        <name>Tazones</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>656bffff-9fc9-4e60-bb60-1cc065a7ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.572709301" lon="-5.697753198">
+        <time>2011-11-13T10:54:22Z</time>
+        <name>Cabo de Torres</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>76a0ffff-06c0-48a1-93f3-41665fa4ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.655374415" lon="-5.848260451">
+        <time>2011-11-13T10:54:56Z</time>
+        <name>Cabo Penas</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>4ad6ffff-e9fb-452c-a733-550646dbffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.594639151" lon="-5.761185374">
+        <time>2011-11-13T10:55:46Z</time>
+        <name>Candas</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>04310000-aa3f-4024-a49c-fef779b1ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.595683231" lon="-5.942832058">
+        <time>2011-11-13T10:56:14Z</time>
+        <name>Aviles</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>64ecffff-9897-4094-a515-51fe257e0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.565397575" lon="-6.143652559">
+        <time>2011-11-13T10:57:06Z</time>
+        <name>Cudillero</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>564affff-a8c1-42fc-91b2-7f52566bffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.594325924" lon="-6.241395775">
+        <time>2011-11-13T10:57:36Z</time>
+        <name>Cabo Vidio</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>3ee50000-3842-4348-ac8a-03fe33260000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.570098072" lon="-6.468021638">
+        <time>2011-11-13T10:57:51Z</time>
+        <name>Cabo Busto</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>0aa40000-910b-405c-bec4-451249bdffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.550353521" lon="-6.531453814">
+        <time>2011-11-13T10:58:09Z</time>
+        <name>Luarca</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>10040000-d561-4d47-a339-c12764aaffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.562054777" lon="-6.733571791">
+        <time>2011-11-13T10:58:27Z</time>
+        <name>C. de S. Augustin</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>6d29ffff-c381-4ed8-b18f-a98b61d1ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.573962650" lon="-6.943907118">
+        <time>2011-11-13T10:58:54Z</time>
+        <name>Tapia</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>18fa0000-0330-4341-8445-591630540000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.556204433" lon="-7.040641186">
+        <time>2011-11-13T10:59:11Z</time>
+        <name>Ribadeo</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>19d10000-64fa-4bfa-b838-6eec038c0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.700937703" lon="-7.436083134">
+        <time>2011-11-13T10:59:32Z</time>
+        <name>San Ciprian</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>7a78ffff-054c-4cbf-a5a5-40e80bab0000</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+    <wpt lat="43.734071848" lon="-7.525464836">
+        <time>2011-11-13T10:59:54Z</time>
+        <name>Pta Roncadoira</name>
+        <sym>light</sym>
+        <type>WPT</type>
+        <extensions>
+            <opencpn:guid>05d00000-ac05-426e-984c-8f555633ffff</opencpn:guid>
+            <opencpn:viz>1</opencpn:viz>
+            <opencpn:viz_name>1</opencpn:viz_name>
+        </extensions>
+    </wpt>
+</gpx>

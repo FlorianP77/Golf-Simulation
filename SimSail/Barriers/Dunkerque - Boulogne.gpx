@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:simsail="http://www.simsail.net">
+	<rte>
+		<name>Dunkerque-Boulogne</name>
+		<rtept lat="50.2666359" lon="1.34008026">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.5134926" lon="1.52912378">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.7101555" lon="1.55146706">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.8755112" lon="1.57392538">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.9471359" lon="1.68518746">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.9961205" lon="1.84095454">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="51.0572014" lon="2.2478199">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="51.0617981" lon="2.34489989">
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>

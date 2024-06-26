@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:simsail="http://www.simsail.net">
+	<rte>
+		<name>Ile de Sein</name>
+		<rtept lat="48.0561" lon="-4.84624">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.051" lon="-4.8296">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.0358" lon="-4.80363">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.0213" lon="-4.80106">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.0323" lon="-4.93242">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.0508" lon="-5.0873">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.0582" lon="-5.08765">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.0601" lon="-4.95083">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="48.0562" lon="-4.84671">
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>

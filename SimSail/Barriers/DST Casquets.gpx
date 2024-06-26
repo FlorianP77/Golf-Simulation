@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:simsail="http://simsail.codeplex.com">
+	<rte>
+		<rtept lat="50.0579" lon="-2.95776">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.7693" lon="-2.83488">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.8533" lon="-2.35204">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.1414" lon="-2.47491">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.057" lon="-2.95776">
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>

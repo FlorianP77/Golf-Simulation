@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<gribsconfig>
+	<config lon1="-3.13251448" lat1="49.8431892" lon2="-1.0545485" lat2="49.4409981">
+		<name>Default</name>
+		<provider>0</provider>
+		<models></models>
+		<wind>1</wind>
+		<temp>1</temp>
+		<gust>1</gust>
+		<prmsl>1</prmsl>
+		<r>1</r>
+		<tcc>1</tcc>
+		<cape>1</cape>
+		<apcp>1</apcp>
+		<curr>1</curr>
+		<swdir>1</swdir>
+		<wvdir>1</wvdir>
+		<swh>1</swh>
+		<duration>384</duration>
+		<step>3</step>
+	</config>
+</gribsconfig>

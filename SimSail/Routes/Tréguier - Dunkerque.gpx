@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:simsail="http://www.simsail.net">
+	<rte>
+		<name>Tréguier - Dunkerque</name>
+		<rtept lat="48.917" lon="-3.14441">
+			<name>0</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.7421" lon="-2.01889">
+			<name>1</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.4007" lon="1.10611">
+			<name>2</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.6967" lon="1.50422">
+			<name>3</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.886" lon="1.5506">
+			<name>4</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.9981" lon="1.76705">
+			<name>5</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="51.076" lon="2.32346">
+			<name>6</name>
+			<sym>Waypoint</sym>
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>

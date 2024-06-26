@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<gpx>
+	<wpt lat="32.9195" lon="35.0708">
+		<type>WPT</type>
+		<name>Acre</name>
+	</wpt>
+	<wpt lat="35.5167" lon="35.7647">
+		<type>WPT</type>
+		<name>Al'Ladhiqiyah - (Lattaquie)</name>
+	</wpt>
+	<wpt lat="31.7983" lon="34.6267">
+		<type>WPT</type>
+		<name>Ashdod - Blue Marina</name>
+	</wpt>
+	<wpt lat="31.6865" lon="34.5543">
+		<type>WPT</type>
+		<name>Askhelon</name>
+	</wpt>
+	<wpt lat="35.1883" lon="35.9437">
+		<type>WPT</type>
+		<name>Banias</name>
+	</wpt>
+	<wpt lat="33.8833" lon="35.4917">
+		<type>WPT</type>
+		<name>Beyrouth</name>
+	</wpt>
+	<wpt lat="33.9025" lon="35.4917">
+		<type>WPT</type>
+		<name>Beyrouth - Solidere</name>
+	</wpt>
+	<wpt lat="33.9495" lon="35.589">
+		<type>WPT</type>
+		<name>Dbayeh - marina Joseph Khoury</name>
+	</wpt>
+	<wpt lat="32.8083" lon="35.0278">
+		<type>WPT</type>
+		<name>Haifa - Kishon Marina</name>
+	</wpt>
+	<wpt lat="32.1655" lon="34.7928">
+		<type>WPT</type>
+		<name>Herzliya marina</name>
+	</wpt>
+	<wpt lat="33.9892" lon="35.623">
+		<type>WPT</type>
+		<name>Jounié</name>
+	</wpt>
+	<wpt lat="31.274" lon="32.3247">
+		<type>WPT</type>
+		<name>Port Saïd</name>
+	</wpt>
+	<wpt lat="33.5667" lon="35.3667">
+		<type>WPT</type>
+		<name>Sidon</name>
+	</wpt>
+	<wpt lat="33.2675" lon="35.1842">
+		<type>WPT</type>
+		<name>Sour</name>
+	</wpt>
+	<wpt lat="34.0145" lon="35.6317">
+		<type>WPT</type>
+		<name>Tabarja - Aquamarina</name>
+	</wpt>
+	<wpt lat="34.912" lon="35.8553">
+		<type>WPT</type>
+		<name>Tartus</name>
+	</wpt>
+	<wpt lat="32.0563" lon="34.7508">
+		<type>WPT</type>
+		<name>Tel Aviv</name>
+	</wpt>
+</gpx>

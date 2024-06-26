@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:simsail="http://www.simsail.net">
+	<rte>
+		<name>DST Pas de Calais- limite S</name>
+		<rtept lat="50.2432" lon="0.072396">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.4391" lon="1.00333">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.6565" lon="1.37319">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.7394" lon="1.44616">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="50.892" lon="1.52164">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="51.0821" lon="1.78834">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="51.2115" lon="2.18839">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="51.3185" lon="2.38715">
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>

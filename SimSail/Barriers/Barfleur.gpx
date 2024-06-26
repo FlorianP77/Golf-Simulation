@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="SimSail" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:simsail="http://simsail.codeplex.com">
+	<rte>
+		<name>Barfleur</name>
+		<rtept lat="49.7335" lon="-1.4867">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.7566" lon="-1.37514">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.7388" lon="-1.27923">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.7064" lon="-1.21947">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.6276" lon="-1.19075">
+			<type>WPT</type>
+		</rtept>
+		<rtept lat="49.576" lon="-1.1987">
+			<type>WPT</type>
+		</rtept>
+	</rte>
+</gpx>
